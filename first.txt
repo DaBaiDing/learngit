@@ -1,0 +1,2 @@
+This is my first Git txt file
+please say "hello"
