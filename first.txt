@@ -1,2 +1,2 @@
-This is my first Git txt file
-please say "hello"
+Git is a distributed version control system
+Plesse enjoy your journey pleasantly
